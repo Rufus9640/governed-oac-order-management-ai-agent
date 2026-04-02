@@ -36,6 +36,75 @@ The demo should be presented in the following sequence:
 5. Validate governance through unsupported queries  
 
 ---
+# Demo Walkthrough
+
+## Welcome Screen
+
+![Welcome Screen](../assets/screenshots/welcome-screen.png)
+
+---
+
+## Ordered Quantity Index
+
+Shows how ordered quantity is calculated and visualized.
+
+![Ordered Quantity Index](../assets/screenshots/kpi-ordered-quantity-index.png)
+
+---
+
+## Category Analysis
+
+Comparison of ordered quantity across product categories.
+
+![Category Analysis](../assets/screenshots/kpi-category-analysis.png)
+
+---
+
+## Late Shipment Trend
+
+Tracks late shipment behavior over time.
+
+![Late Shipment Trend](../assets/screenshots/late-shipment-trend.png)
+
+---
+
+## Cancellation Analysis
+
+Shows cancellation quantity across order types.
+
+![Cancellation Analysis](../assets/screenshots/cancellation-analysis.png)
+
+---
+
+## Sales Trend
+
+Displays sales order trend over time.
+
+![Sales Trend](../assets/screenshots/sales-trend.png)
+
+---
+
+## Unfulfilled Lines
+
+Highlights gaps in order fulfillment.
+
+![Unfulfilled Lines](../assets/screenshots/unfulfilled-lines.png)
+
+---
+
+## Execution Quantity Score
+
+Measures execution performance using shipped vs fulfilled quantity.
+
+![Execution Score](../assets/screenshots/execution-score.png)
+
+---
+
+## Supplemental Instructions (Agent Configuration)
+
+Defines business rules, KPIs, and constraints for the AI agent.
+
+![Supplemental Instructions](../assets/screenshots/supplemental-instructions.png)
 
 ## Step 1 — Trend Analysis
 
