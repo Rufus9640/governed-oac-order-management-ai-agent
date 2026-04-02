@@ -36,7 +36,11 @@ The demo should be presented in the following sequence:
 5. Validate governance through unsupported queries  
 
 ---
-# Demo Walkthrough
+# 🎯 Demo Guide — Governed OAC AI Agent
+
+## Demo Walkthrough
+
+---
 
 ## Welcome Screen
 
@@ -49,22 +53,6 @@ The demo should be presented in the following sequence:
 Shows how ordered quantity is calculated and visualized.
 
 ![Ordered Quantity Index](../assets/screenshots/kpi-ordered-quantity-index.png)
-
----
-
-## Category Analysis
-
-Comparison of ordered quantity across product categories.
-
-![Category Analysis](../assets/screenshots/kpi-category-analysis.png)
-
----
-
-## Late Shipment Trend
-
-Tracks late shipment behavior over time.
-
-![Late Shipment Trend](../assets/screenshots/late-shipment-trend.png)
 
 ---
 
@@ -95,6 +83,12 @@ Highlights gaps in order fulfillment.
 ## Execution Quantity Score
 
 Measures execution performance using shipped vs fulfilled quantity.
+
+![Execution Quantity Score](../assets/screenshots/execution-quantity-score.png)
+
+---
+
+## Execution Score (Alternate View)
 
 ![Execution Score](../assets/screenshots/execution-score.png)
 
