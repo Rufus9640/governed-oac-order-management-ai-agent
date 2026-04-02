@@ -4,3 +4,15 @@ Governed AI analytics agent in Oracle Analytics Cloud using semantic models, RAG
 ## 🧩 Architecture Diagram
 
 ![Architecture Diagram](assets/diagrams/architecture-diagram.png)
+
+## 📚 Knowledge & Governance
+
+This project uses strict AI governance through:
+
+- [Supplemental Instructions](docs/knowledge/supplemental-instructions.md)  
+- [Knowledge Base](docs/knowledge/knowledge-base.md)  
+
+These ensure:
+- No hallucinated KPIs  
+- Business-safe analytics  
+- Controlled AI responses  
