@@ -15,4 +15,19 @@ This project uses strict AI governance through:
 These ensure:
 - No hallucinated KPIs  
 - Business-safe analytics  
-- Controlled AI responses  
+- Controlled AI responses
+
+- ## 🧠 Why This Project Matters
+
+Most AI analytics tools:
+- ❌ Hallucinate KPIs  
+- ❌ Use unsupported data  
+- ❌ Break business logic  
+
+This project solves that by:
+- ✅ Enforcing semantic model boundaries  
+- ✅ Using RAG for controlled knowledge  
+- ✅ Validating every KPI calculation  
+
+Result:
+👉 AI you can actually trust in business environments
